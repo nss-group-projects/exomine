@@ -7,10 +7,6 @@ This project has you building an application that lets governors of different co
 
 ## Professional Collaboration
 
-In this project, you are expected to start building your professional collaboration skills by writing issue tickets and having professional pull requests.
-
-## Professional Collaboration
-
 In this project, you are expected to start building your professional collaboration skills by writing issue tickets and having professional pull requests. During your wireframing and algorithmic thinking design process, you are going to be creating tickets for your efforts.
 
 Here's the link to the [Github Workflow Guides](https://nashville-software-school.github.io/github-workflow/) that everyone must use during this project.
